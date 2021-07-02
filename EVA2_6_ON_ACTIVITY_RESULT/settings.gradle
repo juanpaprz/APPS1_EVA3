@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name = "EVA2_6_ON_ACTIVITY_RESULT"
